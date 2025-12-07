@@ -2,3 +2,7 @@
 /venv
 /data.csv
 /data.csv.dvc
+.git
+/notebooks/.ipynb_checkpoints
+/scripts/__pycache__
+/raw_data.txt
